@@ -19,7 +19,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhxspam&theme=highcontrast&layout=compact" alt="Languages">
 </a>
   
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Moonshining1&show_icons=true&count_private=true&theme=highcontrast" alt="Shubhxspam" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Shubhxspam&show_icons=true&count_private=true&theme=highcontrast" alt="Shubhxspam" /></p>
 
 <div align="left">
   <a href="https://github.com/Shubhxspam">
